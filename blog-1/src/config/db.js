@@ -8,7 +8,7 @@ if (env === 'dev') {
     user: 'root',
     password: '123456',
     port: '3306',
-    database: 'myblog'
+    database: 'myblogs'
   }
 }
 if (env === 'production') {
@@ -17,7 +17,7 @@ if (env === 'production') {
     user: 'root',
     password: '123456',
     port: '3306',
-    database: 'myblog'
+    database: 'myblogs'
   }
 }
 
